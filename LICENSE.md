@@ -1,4 +1,4 @@
-# 
+# 轻量 Practical AI Projects for Students 模板。集成 AI安全 和 自动决策，性能最大化。
 
 
 
